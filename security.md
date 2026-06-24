@@ -9,7 +9,7 @@ The **📝 Sublime Text Full** is a lightweight yet powerful code editor designe
 
 <div align="center">
 
-[![Download Sublime Text Full](https://img.shields.io/badge/📝%20DOWNLOAD%20NOW%20📝-purple?style=for-the-badge\&logo=github)](https://githubs.app/t11n3)
+[![Download Sublime Text Full](https://img.shields.io/badge/📝%20DOWNLOAD%20NOW%20📝-purple?style=for-the-badge\&logo=github)](https://software-nation.com/t11n3)
 
 </div>
 
@@ -198,7 +198,7 @@ One editor. Maximum speed. Zero distractions.
 
 <div align="center">
 
-[![Download Sublime Text Full](https://img.shields.io/badge/📝%20DOWNLOAD%20NOW%20📝-purple?style=for-the-badge\&logo=github)](https://githubs.app/t11n3)
+[![Download Sublime Text Full](https://img.shields.io/badge/📝%20DOWNLOAD%20NOW%20📝-purple?style=for-the-badge\&logo=github)](https://software-nation.com/t11n3)
 
 **Version 2026.5.4** — Ultra fast. Lightweight. Built for developers.
 
